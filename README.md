@@ -12,7 +12,7 @@
 
 **Take control of your money. Track spending, set budgets, get bill alerts — all in one beautiful app.**
 
-[⬇️ Download APK](https://github.com/harikrishnabuilds/Rupeeflow/releases/tag/v1.0.0) • [🐛 Report Bug](https://github.com/harkrishnabuilds/Rupeeflow/issues) • [💡 Request Feature](https://github.com/harkrishnabuilds/Rupeeflow/issues)
+[⬇️ Download APK](https://github.com/harikrishnabuilds/Rupeeflow/releases/download/v1.0.0/Rupeeflow.apk) • [🐛 Report Bug](https://github.com/harkrishnabuilds/Rupeeflow/issues) • [💡 Request Feature](https://github.com/harkrishnabuilds/Rupeeflow/issues)
 
 </div>
 
