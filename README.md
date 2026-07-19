@@ -1,7 +1,8 @@
 <div align="center">
-
-# 💰 RupeeFlow
-### Smart Personal Finance Tracker for Android
+  <img src="Rupeeflow_logo.png" width="120"/>
+  <h1>💰 RupeeFlow</h1>
+  <p><b>Smart Personal Finance Tracker for Android</b></p>
+</div>
 
 [![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin)](https://kotlinlang.org)
