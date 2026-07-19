@@ -8,7 +8,7 @@
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue?logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/harkrishnabuilds/Rupeeflow)](https://github.com/harkrishnabuilds/Rupeeflow/releases)
+[![Release](https://img.shields.io/github/v/release/harkrishnabuilds/Rupeeflow)](https://github.com/harikrishnabuilds/Rupeeflow/releases/tag/v1.0.0)
 
 **Take control of your money. Track spending, set budgets, get bill alerts — all in one beautiful app.**
 
