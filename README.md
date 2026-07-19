@@ -88,7 +88,7 @@ cd Rupeeflow
 **M Hari krishna** (harkrishnabuilds)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/iamharikrishna)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/harkrishnabuilds)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/harikrishnabuilds)
 
 ---
 
