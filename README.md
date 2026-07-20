@@ -9,6 +9,9 @@
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue?logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/harkrishnabuilds/Rupeeflow)](https://github.com/harikrishnabuilds/Rupeeflow/releases/tag/v1.0.0)
+  <a href="https://github.com/harikrishnabuilds/Rupeeflow/releases/download/v2.0/Rupeeflow.v.02.apk">
+    <img src="https://badgen.net/badge/Download/Latest%20APK/32CD32?icon=android" alt="Download APK">
+  </a>
 
 **Take control of your money. Track spending, set budgets, get bill alerts — all in one beautiful app.**
 
